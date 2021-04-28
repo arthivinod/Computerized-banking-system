@@ -1,0 +1,2 @@
+# Computerized-banking-system
+This project is about computerising the work of a banking system. To accomplish this it is essential to know the important procedures taking place in a banking system. The main processes involve depositing and withdrawing money from an account. This requires the user to have an account of his/her own with a specified and unique account number through which they can access their account.
